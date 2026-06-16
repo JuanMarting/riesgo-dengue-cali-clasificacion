@@ -1,0 +1,37 @@
+# =====================================
+# Directorios de Datos y Modelos
+# =====================================
+data/
+catboost_info/
+
+# =====================================
+# Archivos Binarios y Modelos Pesados
+# =====================================
+*.pkl
+*.joblib
+*.h5
+
+
+# =====================================
+# Documentos y Bibliografía
+# =====================================
+*.docx
+*.pdf
+Bibliografias/
+
+# =====================================
+# Entornos Virtuales y Python
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.ipynb_checkpoints/
+
+# =====================================
+# Archivos del Sistema Operativo
+# =====================================
+.DS_Store
+Thumbs.db
